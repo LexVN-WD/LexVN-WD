@@ -1,24 +1,19 @@
-# Hello there!
-<h1>:bust_in_silhouette: <strong>Lex Van-Nugent</strong></h1>
-
-<h2><u>Junior <strong>Full-Stack Web Developer</strong> looking for an opportunity to grow professionally:</u></h2>
-
-
+# **Hello there! My name is Lex Van-Nugent!** 👋
+<h2><i><u>Junior <strong>Full-Stack Web Developer</strong> looking for an opportunity to grow professionally:</u></i></h2>
 <h3>I am a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</h3>
 <br>
-<h3>With a background in Audio, Dental, Entertainment, Social Sciences, and Supply-Chain Management, I am able to bring a unique perspective to development ideas and problems while showcasing creative, novel solutions.</h3>
-<br></br>
-
-<h1><strong>About Me</strong></h1>
+<h3>With a background in <strong>Audio</strong>, <strong>Dental</strong>, <strong>Entertainment</strong>, <strong>Social Sciences</strong>, and <strong>Supply-Chain Management</strong>, I am able to bring a unique perspective to development ideas and problems while showcasing creative, novel solutions.</h3>
+<br>
+<h1><strong>About Me 📓</strong></h1>
 <h2>Massive pop-culture nerd, avid gamer, and professional voice actor turned web developer. </h2>
-<h2><strong>Education</strong></h2>
+<h2><strong>Education 🏫</strong></h2>
 <h3>I graduated from the Lighthouse Labs Full-stack Web Development bootcamp in April 2023, along with a BA in Sociology/Psychology from the University of Calgary back in 2020.</h3>
-<h2><strong>Hobbies & Interests</strong></h2>
-<h3>I have worked as a Professional Voice Actor for the last 4 years, with clients such as Johnson & Johnson, USAID, PsychHub, Edgepoint Learning, The Government of Alaska, and Creative Productions. You can see my work publicly as the main character Victor in the second season of Tobot Galaxy Detectives on Netflix.</h3>
-<h3>I am an avid gamer with Mass Effect being my favorite game series of all time. When I'm not playing single player RPG's, I enjoy spending time with my friends playing multiplayer games such as League of Legends or Overwatch.</h3>
-<h3>You would also be either incredibly impressed or incredibly surprised at my depth of knowledge regarding the Star Wars universe.</h3>
+<h2><strong>Hobbies & Interests 🎙️</strong></h2>
+<p>🎙️ I have worked as a Professional Voice Actor for the last 4 years, with clients such as Johnson & Johnson, USAID, PsychHub, Edgepoint Learning, The Government of Alaska, and Creative Productions. You can see my work publicly as the main character Victor in the second season of Tobot Galaxy Detectives on Netflix.</p>
+<p>🎮 I am an avid gamer with Mass Effect being my favorite game series of all time. When I'm not playing single player RPG's, I enjoy spending time with my friends playing multiplayer games such as League of Legends or Overwatch.</p>
+<p>🌟 You would also be either incredibly impressed or incredibly surprised at my depth of knowledge regarding the Star Wars universe.</p>
 
-<h2><strong>Plans for the Future</strong></h2>
+<h2><strong>Plans for the Future ⏲️</strong></h2>
 <h3><strong>Short-Term</strong></h3>
 <p>🌱 I am currently in the process of expanding my programming languages, with Python and C++ at the top of the list</p>
 <p>📖 I am expanding my understanding of Typescript to a deeper level</p>
@@ -42,6 +37,7 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Markdown](https://img.shields.io/badge/-Markdown-189bd6?style=for-the-badge&logo=markdown3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 <h3>Frameworks, Libraries & Environments</h3>
 
