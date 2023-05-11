@@ -37,7 +37,7 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Markdown](https://img.shields.io/badge/-Markdown-189bd6?style=for-the-badge&logo=markdown3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Markdown](https://img.shields.io/badge/-Markdown-189bd6?style=for-the-badge&logo=markdown&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 <h3>Frameworks, Libraries & Environments</h3>
 
