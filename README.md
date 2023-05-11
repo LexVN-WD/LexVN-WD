@@ -1,13 +1,11 @@
 # **Hello there! My name is Lex Van-Nugent!** 👋
 <h2><i><u>Junior <strong>Full-Stack Web Developer</strong> looking for an opportunity to grow professionally:</u></i></h2>
-<h3>I am a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</h3>
-<br>
-<h3>With a background in <strong>Audio</strong>, <strong>Dental</strong>, <strong>Entertainment</strong>, <strong>Social Sciences</strong>, and <strong>Supply-Chain Management</strong>, I am able to bring a unique perspective to development ideas and problems while showcasing creative, novel solutions.</h3>
-<br>
+<p>I am a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</p>
+<p>With a background in <strong>Audio</strong>, <strong>Dental</strong>, <strong>Entertainment</strong>, <strong>Social Sciences</strong>, and <strong>Supply-Chain Management</strong>, I am able to bring a unique perspective to development ideas and problems while showcasing creative, novel solutions.</p>
 <h1><strong>About Me 📓</strong></h1>
-<h2>Massive pop-culture nerd, avid gamer, and professional voice actor turned web developer. </h2>
+<h3><i>Massive pop-culture nerd, avid gamer, and professional voice actor turned web developer.</i></h3>
 <h2><strong>Education 🏫</strong></h2>
-<h3>I graduated from the Lighthouse Labs Full-stack Web Development bootcamp in April 2023, along with a BA in Sociology/Psychology from the University of Calgary back in 2020.</h3>
+<p>I graduated from the Lighthouse Labs Full-stack Web Development bootcamp in April 2023, along with a BA in Sociology/Psychology from the University of Calgary back in 2020.</p>
 <h2><strong>Hobbies & Interests 🎙️</strong></h2>
 <p>🎙️ I have worked as a Professional Voice Actor for the last 4 years, with clients such as Johnson & Johnson, USAID, PsychHub, Edgepoint Learning, The Government of Alaska, and Creative Productions. You can see my work publicly as the main character Victor in the second season of Tobot Galaxy Detectives on Netflix.</p>
 <p>🎮 I am an avid gamer with Mass Effect being my favorite game series of all time. When I'm not playing single player RPG's, I enjoy spending time with my friends playing multiplayer games such as League of Legends or Overwatch.</p>
